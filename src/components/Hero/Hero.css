@@ -42,6 +42,15 @@ font-size: 1rem;
 transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
+.hero-image {
+width: 200px;
+height: 200px;
+border-radius: 50%;
+object-fit: cover;
+border: 4px solid #fff;
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
 .hero-pill:hover {
 background-color: #333;
 transform: translateY(-2px);
