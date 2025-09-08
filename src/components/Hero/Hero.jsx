@@ -6,14 +6,14 @@ const Hero = () => {
     <div id="hero" className="hero-container">
       <div className="hero-image-container">
           <img
-            src="boycircle.png" // Replace this with your actual image path
+            src="boycircle.png"
             alt="Bharath Reddy"
             className="hero-image"
           />
         </div>
       <div className="hero-content">
         <h1 className="hero-title">Naganjaneya Bharath Reddy Ramana</h1>
-        <p className="hero-subtitle">I'm a Passionate Web Developer</p>
+        <p className="hero-subtitle">I'm a Passionate Software Developer</p>
         
         <div className="hero-links">
           <a href="mailto:rbharathreddy544@gmail.com" className="hero-pill" target="_blank" rel="noopener noreferrer">rbharathreddy544@gmail.com</a>
