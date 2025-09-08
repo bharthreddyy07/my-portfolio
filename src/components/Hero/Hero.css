@@ -1,0 +1,57 @@
+.hero-container {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+text-align: center;
+background-color: black; 
+color: #f8f9fa;
+}
+
+.hero-content {
+padding: 2rem;
+}
+
+.hero-title {
+font-size: 3.5rem;
+font-weight: 700;
+margin-bottom: 0.5rem;
+}
+
+.hero-subtitle {
+font-size: 1.5rem;
+margin-bottom: 2rem;
+color: #666;
+}
+
+.hero-links {
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+gap: 1rem;
+}
+
+.hero-pill {
+background-color: #000;
+border: 1px solid white;
+color: #fff;
+padding: 0.75rem 1.5rem;
+border-radius: 9999px; 
+text-decoration: none;
+font-size: 1rem;
+transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.hero-pill:hover {
+background-color: #333;
+transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+.hero-title {
+font-size: 2.5rem;
+}
+.hero-subtitle {
+font-size: 1.2rem;
+}
+}

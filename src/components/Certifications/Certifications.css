@@ -1,0 +1,70 @@
+.certifications-container {
+padding: 5rem;
+text-align: center;
+}
+
+.certifications-container h2 {
+font-size: 2rem;
+/* font-weight: 600; */
+color: white;
+margin-bottom: 2rem;
+}
+
+.certifications-grid {
+display: flex;
+flex-direction: column; 
+gap: 1rem;
+}
+
+.certification-card {
+background-color: black;
+border: 1px solid white;
+color: white;
+padding: 0.5rem;
+width: 50%;
+margin: 0 auto;
+border-radius: 8px;
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+transition: transform 0.3s ease;
+display: flex; 
+align-items: center;
+justify-content: space-between;
+}
+
+.certification-card:hover {
+transform: translateY(-5px);
+}
+
+.certification-details {
+display: flex;
+flex-direction: column;
+text-align: left;
+}
+
+.certification-details h3 {
+font-size: 1.25rem;
+font-weight: 600;
+margin: 0;
+}
+
+.certification-details .issuer {
+font-style: italic;
+color: #666;
+margin: 0;
+font-size: 1rem;
+text-align: justify;
+}
+
+.view-certificate {
+display: inline-block;
+padding: 0.5rem 1rem;
+background-color: #555;
+color: #fff;
+text-decoration: none;
+border-radius: 4px;
+font-weight: 500;
+}
+
+.view-certificate:hover {
+background-color: #333;
+}
