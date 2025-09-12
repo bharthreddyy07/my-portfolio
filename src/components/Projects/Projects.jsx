@@ -7,7 +7,7 @@ const projectsData = [
     title: 'E-commerce Website',
     description: 'A full-stack e-commerce platform with user authentication, product listings, and a shopping cart.',
     technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
-    githubLink: 'https://github.com/your-username/ecommerce-project',
+    githubLink: 'https://github.com/bharthreddyy07/E-commerce',
     liveLink: 'https://www.live-demo.com'
   },
   {
