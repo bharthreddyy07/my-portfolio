@@ -8,31 +8,31 @@ const projectsData = [
     description: 'A full-stack e-commerce platform with user authentication, product listings, and a shopping cart.',
     technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
     githubLink: 'https://github.com/bharthreddyy07/E-commerce',
-    liveLink: 'https://www.live-demo.com'
+    liveLink: ''
   },
   {
     id: 2,
     title: 'Social Media Dashboard',
     description: 'A responsive dashboard for tracking social media metrics with dynamic charts and data visualization.',
     technologies: ['React', 'Chart.js', 'CSS Grid'],
-    githubLink: 'https://github.com/your-username/dashboard-project',
-    liveLink: 'https://www.live-demo.com'
+    githubLink: '',
+    liveLink: ''
   },
   {
     id: 3,
     title: 'Personal Portfolio',
     description: 'A personal portfolio website to showcase my projects and skills.',
     technologies: ['React', 'CSS', 'JavaScript'],
-    githubLink: 'https://github.com/your-username/portfolio-project',
-    liveLink: 'https://www.live-demo.com'
+    githubLink: '',
+    liveLink: ''
   },
   {
     id: 4,
     title: 'Task Management App',
     description: 'A task management application with features like task creation, editing, and deletion.',
     technologies: ['React', 'Redux', 'Firebase'],
-    githubLink: 'https://github.com/your-username/task-management-app',
-    liveLink: 'https://www.live-demo.com'
+    githubLink: '',
+    liveLink: ''
   },
 
 
