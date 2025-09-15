@@ -10,14 +10,7 @@ const projectsData = [
     githubLink: 'https://github.com/bharthreddyy07/E-commerce',
     liveLink: ''
   },
-  {
-    id: 2,
-    title: 'Social Media Dashboard',
-    description: 'A responsive dashboard for tracking social media metrics with dynamic charts and data visualization.',
-    technologies: ['React', 'Chart.js', 'CSS Grid'],
-    githubLink: '',
-    liveLink: ''
-  },
+ 
   {
     id: 3,
     title: 'Personal Portfolio',
@@ -28,9 +21,9 @@ const projectsData = [
   },
   {
     id: 4,
-    title: 'Task Management App',
-    description: 'A task management application with features like task creation, editing, and deletion.',
-    technologies: ['React', 'Redux', 'Firebase'],
+    title: ' Enhanced Deep Fake Image Detection via Feature Fusion',
+    description: 'A deep learning project focused on improving the detection of deep fake images using advanced feature fusion techniques.',
+    technologies: ['Python', 'TensorFlow', 'Keras', 'Machine Learning'],
     githubLink: '',
     liveLink: ''
   },
