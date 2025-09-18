@@ -8,7 +8,7 @@ const projectsData = [
     description: 'A full-stack e-commerce platform with user authentication, product listings, and a shopping cart.',
     technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
     githubLink: 'https://github.com/bharthreddyy07/E-commerce',
-    liveLink: ''
+    liveLink: 'https://e-commerce-bharath07.vercel.app/'
   },
  
   {
@@ -24,8 +24,8 @@ const projectsData = [
     title: ' Enhanced Deep Fake Image Detection via Feature Fusion',
     description: 'A deep learning project focused on improving the detection of deep fake images using advanced feature fusion techniques.',
     technologies: ['Python', 'TensorFlow', 'Keras', 'Machine Learning'],
-    githubLink: '',
-    liveLink: ''
+    githubLink: 'https://github.com/bharthreddyy07/DeepFakeImageDetection',
+    
   },
 
 
