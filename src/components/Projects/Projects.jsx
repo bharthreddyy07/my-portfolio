@@ -8,7 +8,7 @@ const projectsData = [
     description: 'A full-stack e-commerce platform with user authentication, product listings, and a shopping cart.',
     technologies: ['React', 'Node.js', 'Express', 'MongoDB'],
     githubLink: 'https://github.com/bharthreddyy07/E-commerce',
-    liveLink: ''
+    liveLink: 'https://e-commerce-bharath07.vercel.app/'
   },
  
   {
