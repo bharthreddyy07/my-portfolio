@@ -16,8 +16,8 @@ const projectsData = [
     title: 'Personal Portfolio',
     description: 'A personal portfolio website to showcase my projects and skills.',
     technologies: ['React', 'CSS', 'JavaScript'],
-    githubLink: '',
-    liveLink: ''
+    githubLink: 'https://github.com/bharthreddyy07/my-portfolio',
+    liveLink: 'https://bharathreddy.vercel.app/'
   },
   {
     id: 4,
