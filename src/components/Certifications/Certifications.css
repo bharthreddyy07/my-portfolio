@@ -68,3 +68,21 @@ font-weight: 500;
 .view-certificate:hover {
 background-color: #333;
 }
+
+@media (min-width: 768px) {
+.certifications-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}   
+.certifications-grid {
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}       
+.certification-card {
+    width: 800px;
+}
+
+}
